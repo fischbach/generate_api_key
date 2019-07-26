@@ -9,8 +9,7 @@ extends:
 
 labels:
   collection:
-    - Authentication Policy
-    - X509
+    - X509 Certificates
 
 variables:
   - name: TARGET_IP
